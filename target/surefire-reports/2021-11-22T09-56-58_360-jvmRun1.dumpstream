@@ -1,0 +1,15 @@
+# Created at 2021-11-22T09:57:04.611
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2021-11-22T09:57:04.614
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '# There is insufficient memory for the Java Runtime Environment to continue.'.
+
+# Created at 2021-11-22T09:57:04.616
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '# Native memory allocation (mmap) failed to map 67108864 bytes for G1 virtual space'.
+
+# Created at 2021-11-22T09:57:04.618
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '# An error report file with more information is saved as:'.
+
+# Created at 2021-11-22T09:57:04.620
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '# E:\EndToEndFramework\BDDFramework\hs_err_pid8736.log'.
+
